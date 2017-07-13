@@ -1,0 +1,20 @@
+.father {
+	border: blue 1px solid;
+}
+
+.son {
+	border: red solid 1px;
+}
+
+.granpa {
+	border: green solid 1px;
+}
+
+.aunt {
+	border: black solid 1px;
+}
+
+.base {
+	background-color: #cfcfc0;
+	border: #abcdef 2px solid;
+}
